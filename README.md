@@ -2,3 +2,4 @@
 
 integrantes :
 - Echilin Taina 
+- Ygor de Tárcio da Silva Ferreira
