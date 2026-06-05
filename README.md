@@ -1,3 +1,4 @@
 # motortrack_mobile
 
-integrantes
+integrantes :
+- Echilin Taina 
