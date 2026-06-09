@@ -17,6 +17,8 @@ export default function EquipeScreen() {
     { id: '6', nome: 'Matheus', papel: 'Desenvolvedor' },
     { id: '7', nome: 'Ygor', papel: 'Desenvolvedor' },
     { id: '8', nome: 'Gabriel', papel: 'Desenvolvedor' },
+    { id: '9', nome: 'Marcela', papel: 'Desenvolvedora' },
+    
   ];
 
   return (
